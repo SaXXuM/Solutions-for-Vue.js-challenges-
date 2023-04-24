@@ -1,0 +1,1 @@
+You can test this solutions on https://play.vuejs.org
